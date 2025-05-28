@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Koresne/Pinterest-Concept.git/static/css/main.75818c7e.css",
+    "main.js": "/Koresne/Pinterest-Concept.git/static/js/main.9338b28b.js",
+    "index.html": "/Koresne/Pinterest-Concept.git/index.html",
+    "main.75818c7e.css.map": "/Koresne/Pinterest-Concept.git/static/css/main.75818c7e.css.map",
+    "main.9338b28b.js.map": "/Koresne/Pinterest-Concept.git/static/js/main.9338b28b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75818c7e.css",
+    "static/js/main.9338b28b.js"
+  ]
+}
